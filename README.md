@@ -15,11 +15,15 @@ readers are advised to add the mex files into '../util'.
 1¡¢Download:
 Average_precision.m coverage.m Hamming_loss.m One_error.m Ranking_loss.m and sample data.mat
 from http://cse.seu.edu.cn/PersonalPage/zhangml/files/LIFT.rar
+
 2¡¢Download:
 dist2.m and scale_dist.mexglx (need mex)
 from http://lihi.eew.technion.ac.il/files/Demos/SelfTuning/ZPclustering.zip
+
 3¡¢Add these seven files to '../util'
+
 4¡¢Add 'sample data.mat' to '../Data'
+
 5¡¢Run demo.m
 
 
