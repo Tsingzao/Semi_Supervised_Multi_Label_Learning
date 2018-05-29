@@ -15,7 +15,8 @@ readers are advised to add the mex files into '../util'.
 
 1¡¢Download:
 Average_precision.m coverage.m Hamming_loss.m One_error.m Ranking_loss.m and sample data.mat
-from http://cse.seu.edu.cn/PersonalPage/zhangml/files/LIFT.rar
+from http://cse.seu.edu.cn/PersonalPage/zhangml/files/LIFT.rar 
+Note the label/target should be binary (0 and 1).
 
 2¡¢Download:
 dist2.m and scale_dist.mexglx (need mex)
